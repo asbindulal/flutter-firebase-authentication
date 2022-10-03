@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "952082308730",
+    "project_id": "auth-app-savage",
+    "storage_bucket": "auth-app-savage.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:952082308730:android:7a9c4859429592751d25c3",
+        "android_client_info": {
+          "package_name": "np.com.asbin.authentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "952082308730-4qm8uc8dbjfc1e3rpimglj1ean2ce1k9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7qbcEKbmnWNFwCykW9YnwEI4dhwfbmXc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "952082308730-4qm8uc8dbjfc1e3rpimglj1ean2ce1k9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
